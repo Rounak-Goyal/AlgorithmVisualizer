@@ -1,0 +1,12 @@
+{
+    "root": "build/",
+    "clean_urls": false,
+    "routes": {
+      "/**": "index.html"
+    },
+    "proxies": {
+    "/api/": {
+      "origin": "${API_URL}"
+      }
+    }
+  }
