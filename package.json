@@ -1,7 +1,11 @@
 {
   "name": "algo-visualizer",
   "version": "0.1.0",
-  "homepage": "http://tamimehsan.github.io/AlgorithmVisualizer",
+  "engines": {
+    "node": "16.15.1",
+    "npm":"8.3.0"
+  },
+  "homepage": "#",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.11.0",
