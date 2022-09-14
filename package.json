@@ -33,7 +33,7 @@
   },
   "scripts": {
     "heroku-postbuild": "npm install",
-    "start": "node server.js",
+    "start": "npm start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
