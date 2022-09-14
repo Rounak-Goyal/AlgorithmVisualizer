@@ -1,7 +1,7 @@
 # Algorithm Visualizer
 
-A better visualization of different algorithms made with React. 
-
+### A better visualization of different algorithms made with React. 
+#### Demo: <a href="https://rounak-goyal.github.io/AlgorithmVisualizer/">demo</a>
 
 - Pathfinder(Graph)
 - Sorting Algorithms
