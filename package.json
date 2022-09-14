@@ -1,13 +1,8 @@
 {
   "name": "algo-visualizer",
   "version": "0.1.0",
-  "homepage": "#",
+  "homepage": "http://tamimehsan.github.io/AlgorithmVisualizer",
   "private": true,
-  "main": "server.js",
-  "engines": {
-    "node": "16.15.1",
-    "npm":"8.3.0"
-  },
   "dependencies": {
     "@material-ui/core": "^4.11.0",
     "@material-ui/icons": "^4.9.1",
@@ -32,8 +27,7 @@
     "web-vitals": "^0.2.4"
   },
   "scripts": {
-    "heroku-postbuild": "npm install",
-    "start": "node server.js",
+    "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
