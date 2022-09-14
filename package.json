@@ -1,12 +1,13 @@
 {
   "name": "algo-visualizer",
   "version": "0.1.0",
+  "homepage": "#",
+  "private": true,
+  "main": "server.js",
   "engines": {
     "node": "16.15.1",
     "npm":"8.3.0"
   },
-  "homepage": "#",
-  "private": true,
   "dependencies": {
     "@material-ui/core": "^4.11.0",
     "@material-ui/icons": "^4.9.1",
@@ -31,7 +32,8 @@
     "web-vitals": "^0.2.4"
   },
   "scripts": {
-    "start": "react-scripts start",
+    "heroku-postbuild": "npm install",
+    "start": "npm start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
