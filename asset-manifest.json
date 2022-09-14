@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/AlgorithmVisualizer/static/css/main.0dab371c.chunk.css",
+    "main.js": "/AlgorithmVisualizer/static/js/main.d610627f.chunk.js",
+    "main.js.map": "/AlgorithmVisualizer/static/js/main.d610627f.chunk.js.map",
+    "runtime-main.js": "/AlgorithmVisualizer/static/js/runtime-main.39aee964.js",
+    "runtime-main.js.map": "/AlgorithmVisualizer/static/js/runtime-main.39aee964.js.map",
+    "static/css/2.07411dd2.chunk.css": "/AlgorithmVisualizer/static/css/2.07411dd2.chunk.css",
+    "static/js/2.d9965807.chunk.js": "/AlgorithmVisualizer/static/js/2.d9965807.chunk.js",
+    "static/js/2.d9965807.chunk.js.map": "/AlgorithmVisualizer/static/js/2.d9965807.chunk.js.map",
+    "static/js/3.45c1c8aa.chunk.js": "/AlgorithmVisualizer/static/js/3.45c1c8aa.chunk.js",
+    "static/js/3.45c1c8aa.chunk.js.map": "/AlgorithmVisualizer/static/js/3.45c1c8aa.chunk.js.map",
+    "index.html": "/AlgorithmVisualizer/index.html",
+    "static/css/2.07411dd2.chunk.css.map": "/AlgorithmVisualizer/static/css/2.07411dd2.chunk.css.map",
+    "static/css/main.0dab371c.chunk.css.map": "/AlgorithmVisualizer/static/css/main.0dab371c.chunk.css.map",
+    "static/js/2.d9965807.chunk.js.LICENSE.txt": "/AlgorithmVisualizer/static/js/2.d9965807.chunk.js.LICENSE.txt",
+    "static/media/binaryTree.6d8ce938.png": "/AlgorithmVisualizer/static/media/binaryTree.6d8ce938.png",
+    "static/media/graph.6e6849d5.png": "/AlgorithmVisualizer/static/media/graph.6e6849d5.png",
+    "static/media/index.css": "/AlgorithmVisualizer/static/media/roboto-vietnamese-400-normal.52cebac0.woff2",
+    "static/media/sort.117e08fc.png": "/AlgorithmVisualizer/static/media/sort.117e08fc.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.39aee964.js",
+    "static/css/2.07411dd2.chunk.css",
+    "static/js/2.d9965807.chunk.js",
+    "static/css/main.0dab371c.chunk.css",
+    "static/js/main.d610627f.chunk.js"
+  ]
+}
