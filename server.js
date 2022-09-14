@@ -8,6 +8,6 @@ const port = process.env.PORT || 8080;
 app.use(express.static(path.join(__dirname, "build")));
 
 // This route serves the React app
-app.get('/', (req, res) => res.sendFile(path.resolve(__dirname, "build", "public/index.html")));
+app.get('/', (req, res) => res.sendFile(path.resolve(__dirname, "build", "index.html")));
 
 app.listen(port, () => console.log(`Server listening on port ${port}`));
