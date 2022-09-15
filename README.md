@@ -10,9 +10,7 @@
 - Sorting Algorithms
 - Binary Search
 
-
 ## Algorithms implemented 
-
 - DFS
 - BFS
 - Dijkstra
